@@ -1,8 +1,3 @@
-# Nice-website-template
-One simple website template created by me
+# Web app for your daily use!
 
-Hey guys, this simple website template that i created is in beta progress so i will make some updates for it as soon as i can!
-To be noticed if i have updates you can easily join my discord server: <a href="https://discord.gg/buqPrVyXJ7">My discord github updates server</a>
-<b>(DONT FORGET, VERSION CODES ARE IN THEIR OWN BRANCHS)</b><br>
-<b><h> ALL OF THE VERSION CREDITS MOVED TO REPOSITORIE WIKI</h><b>
-     
+Do you like to see bunch of websites you like on your screen all of them together and no need to change from tab to tab or even without creating bunch of windows for every website you like?  does any browser do it?? but our web app can simply do it just order a version for your self (free!) and just tell us what websites you like to have in it!
